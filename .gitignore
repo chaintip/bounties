@@ -1,0 +1,7 @@
+__pycache__/
+config.py
+updater.log
+._.gitignore
+._config.py
+._updater.py
+updater.py
