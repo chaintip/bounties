@@ -45,6 +45,7 @@ Bounty | Issue | Repository | Fixing
 for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
     if i:
+        pulls = []
         if 'pulls' in i:
             pulls = c_pulls.find({'id': {'$in': i['pulls']}})
         pulls_string = ''
