@@ -59,8 +59,8 @@ for issue in bounties_repo.get_issues(state='open'):
         repo_string += " / "
         repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
         amount_usd = float(i['amount']) * price
-        readme += """$%s | [[#%s](%s)] %s | %s | %s
-""" % (round(amount_usd, 2), i['number'], ctu(i['url']), i['title'], repo_string, pulls_string)
+        readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
+""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
 
 readme += """
 # Collected Bounties
@@ -79,8 +79,8 @@ for issue in bounties_repo.get_issues(state='closed'):
             repo_string += " / "
             repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
             amount_usd = float(i['amount']) * price
-            readme += """[$%s](%s) | [[#%s](%s)] %s | %s | %s
-""" % (round(amount_usd, 2), ctu(issue.html_url), i['number'], ctu(i['url']), i['title'], repo_string, pull_string)
+            readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
+""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pull_string)
 
 with open("README.md", "w") as readme_file:
     print(readme, file = readme_file)
