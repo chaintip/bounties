@@ -59,7 +59,7 @@ for issue in bounties_repo.get_issues(state='open'):
         repo_string += " / "
         repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
         amount_usd = float(i['amount']) * price
-        readme += """~ $%7.2f | [[#%s](%s)] %s | %s | %s
+        readme += """$%6.2f | [[#%s](%s)] %s | %s | %s
 """ % (amount_usd, i['number'], ctu(i['url']), i['title'], repo_string, pulls_string)
 
 
@@ -80,7 +80,7 @@ for issue in bounties_repo.get_issues(state='closed'):
             repo_string += " / "
             repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
             amount_usd = float(i['amount']) * price
-            readme += """~ $%7.2f | [[#%s](%s)] %s | %s | %s
+            readme += """$%6.2f | [[#%s](%s)] %s | %s | %s
 """ % (amount_usd, i['number'], ctu(i['url']), i['title'], repo_string, pull_string)
 
 with open("README.md", "w") as readme_file:
