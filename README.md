@@ -11,5 +11,5 @@ Bounty | Issue | Repository | Fixing
 
 Bounty | Issue | Repository | Fixed By
 --- | --- | --- | ---
-~ $  21.30 | [[#1](http://github.chaintip.org/chaintip/chaintip-design/issues/1)] Add ChainTip word logo and icon to this repository | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-design](http://github.chaintip.org/chaintip/chaintip-design) | PR [#3](http://github.chaintip.org/chaintip/chaintip-design/pull/3)
+~ $  21.31 | [[#1](http://github.chaintip.org/chaintip/chaintip-design/issues/1)] Add ChainTip word logo and icon to this repository | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-design](http://github.chaintip.org/chaintip/chaintip-design) | PR [#3](http://github.chaintip.org/chaintip/chaintip-design/pull/3)
 
