@@ -2,10 +2,10 @@
 
 Bounty | Issue | Repository | Fixing
 --- | --- | --- | ---
-~ $  35.11 | [[#49](http://github.chaintip.org/bitcoinxt/website/issues/49)] Support internationalization | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#51](http://github.chaintip.org/bitcoinxt/website/pull/51)
+~ $  35.10 | [[#49](http://github.chaintip.org/bitcoinxt/website/issues/49)] Support internationalization | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#51](http://github.chaintip.org/bitcoinxt/website/pull/51)
 ~ $  14.04 | [[#48](http://github.chaintip.org/bitcoinxt/website/issues/48)] Remove country flags | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#50](http://github.chaintip.org/bitcoinxt/website/pull/50)
 ~ $   5.88 | [[#309](http://github.chaintip.org/bitcoinxt/bitcoinxt/issues/309)] Don't require CASH service bit for outgoing connections | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [bitcoinxt](http://github.chaintip.org/bitcoinxt/bitcoinxt) | 
-~ $   3.14 | [[#9](http://github.chaintip.org/chaintip/chaintip-github/issues/9)] Find a bug with the ChainTip GitHub bot? | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
+~ $   3.13 | [[#9](http://github.chaintip.org/chaintip/chaintip-github/issues/9)] Find a bug with the ChainTip GitHub bot? | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
 
 # Collected Bounties
 
