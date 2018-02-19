@@ -42,7 +42,7 @@ price = c_variables.find_one({})['bch_price']
 readme = """# Available Bounties
 
 Bounty | Issue | Repository | Fixing PRs
-:---: | --- | :---: | :---:
+:---: | --- | --- | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
@@ -68,7 +68,7 @@ readme += """
 # Collected Bounties
 
 Bounty | Issue | Repository | Fixed By PR
---- | --- | --- | ---
+:---: | --- | --- | :---:
 """
 for issue in bounties_repo.get_issues(state='closed'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
