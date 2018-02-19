@@ -25,7 +25,8 @@ bounties_repo = github.get_repo('%s/%s' % (gh_user, bounties_repo_name))
 # mongodb setup
 import pymongo
 from config import mongo_connection_string
-client = pymongo.MongoClient(mongo_connection_string)
+log.info('Connecting to database...')
+client = pymongo.MongoClient(mongo_connection_string, connect=False)
 database = client.github
 c_issues = database.issues # index id
 c_issue_tips = database.issue_tips # index address
