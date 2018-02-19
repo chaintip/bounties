@@ -41,7 +41,7 @@ def ctu(url):
 price = c_variables.find_one({})['bch_price']
 readme = """# Available Bounties
 
-Bounty | Issue | Repository | Fixing
+Bounty | Issue | Repository | Fixing PRs
 --- | --- | --- | ---
 """
 for issue in bounties_repo.get_issues(state='open'):
@@ -53,8 +53,8 @@ for issue in bounties_repo.get_issues(state='open'):
         pulls_string = ''
         for pull in pulls:
             if len(pulls_string) > 0:
-                pulls_string += ','
-            pulls_string += 'PR [#%s](%s)' % (pull['number'], ctu(pull['url']))
+                pulls_string += ', '
+            pulls_string += '[#%s](%s)' % (pull['number'], ctu(pull['url']))
 
         split = i['repo_full_name'].split('/')
         repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
@@ -67,7 +67,7 @@ for issue in bounties_repo.get_issues(state='open'):
 readme += """
 # Collected Bounties
 
-Bounty | Issue | Repository | Fixed By
+Bounty | Issue | Repository | Fixed By PR
 --- | --- | --- | ---
 """
 for issue in bounties_repo.get_issues(state='closed'):
@@ -75,7 +75,7 @@ for issue in bounties_repo.get_issues(state='closed'):
     if i:
         if 'linked_pull_id' in i:
             pull = c_pulls.find_one({'id': i['linked_pull_id']})
-            pull_string = 'PR [#%s](%s)' % (pull['number'], ctu(pull['url']))
+            pull_string = '[#%s](%s)' % (pull['number'], ctu(pull['url']))
             split = i['repo_full_name'].split('/')
             repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
             repo_string += " / "
