@@ -2,7 +2,7 @@
 
 Bounty | Issue | Repository | Fixing
 --- | --- | --- | ---
-[$10.57](http://github.chaintip.org/chaintip/bounties/issues/9) | Restructure main.cpp as standard C++ project [#63](http://github.chaintip.org/omersiar/esp-rfid/issues/63) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
+[$10.56](http://github.chaintip.org/chaintip/bounties/issues/9) | Restructure main.cpp as standard C++ project [#63](http://github.chaintip.org/omersiar/esp-rfid/issues/63) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
 [$13.31](http://github.chaintip.org/chaintip/bounties/issues/6) | Remove country flags [#48](http://github.chaintip.org/bitcoinxt/website/issues/48) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#50](http://github.chaintip.org/bitcoinxt/website/pull/50)
 [$5.57](http://github.chaintip.org/chaintip/bounties/issues/5) | Don't require CASH service bit for outgoing connections [#309](http://github.chaintip.org/bitcoinxt/bitcoinxt/issues/309) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [bitcoinxt](http://github.chaintip.org/bitcoinxt/bitcoinxt) | 
 [$1.95](http://github.chaintip.org/chaintip/bounties/issues/4) | Find a bug with the ChainTip GitHub bot? [#9](http://github.chaintip.org/chaintip/chaintip-github/issues/9) | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | PR [#16](http://github.chaintip.org/chaintip/chaintip-github/pull/16)
