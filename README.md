@@ -11,6 +11,6 @@ Bounty | Issue | Repository | Fixing
 
 Bounty | Issue | Repository | Fixed By
 --- | --- | --- | ---
-[$20.76](http://github.chaintip.org/chaintip/bounties/issues/8) | Add ChainTip word logo and icon to this repository [#1](http://github.chaintip.org/chaintip/chaintip-design/issues/1) | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-design](http://github.chaintip.org/chaintip/chaintip-design) | PR [#3](http://github.chaintip.org/chaintip/chaintip-design/pull/3)
-[$33.44](http://github.chaintip.org/chaintip/bounties/issues/7) | Support internationalization [#49](http://github.chaintip.org/bitcoinxt/website/issues/49) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#51](http://github.chaintip.org/bitcoinxt/website/pull/51)
+[$20.77](http://github.chaintip.org/chaintip/bounties/issues/8) | Add ChainTip word logo and icon to this repository [#1](http://github.chaintip.org/chaintip/chaintip-design/issues/1) | [chaintip](http://github.chaintip.org/chaintip) / [chaintip-design](http://github.chaintip.org/chaintip/chaintip-design) | PR [#3](http://github.chaintip.org/chaintip/chaintip-design/pull/3)
+[$33.45](http://github.chaintip.org/chaintip/bounties/issues/7) | Support internationalization [#49](http://github.chaintip.org/bitcoinxt/website/issues/49) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | PR [#51](http://github.chaintip.org/bitcoinxt/website/pull/51)
 
