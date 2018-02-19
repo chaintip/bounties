@@ -27,6 +27,7 @@ import pymongo
 from config import mongo_connection_string
 log.info('Connecting to database...')
 client = pymongo.MongoClient(mongo_connection_string, connect=False)
+log.info('Connected.')
 database = client.github
 c_issues = database.issues # index id
 c_issue_tips = database.issue_tips # index address
