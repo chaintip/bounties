@@ -1,11 +1,11 @@
 ## Available Bounties 
-#### [how do I claim a bounty?](http://www.chaintip.org/github#claim-bounty)
 
 Bounty | Issue | Repository | Fixing PRs
 :---: | --- | --- | :---:
 [$15.31](http://github.chaintip.org/chaintip/bounties/issues/11) | Update the russian translation [#55](http://github.chaintip.org/bitcoinxt/website/issues/55) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | 
 [$10.57](http://github.chaintip.org/chaintip/bounties/issues/9) | Restructure main.cpp as standard C++ project [#63](http://github.chaintip.org/omersiar/esp-rfid/issues/63) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
 [$5.58](http://github.chaintip.org/chaintip/bounties/issues/5) | Don't require CASH service bit for outgoing connections [#309](http://github.chaintip.org/bitcoinxt/bitcoinxt/issues/309) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [bitcoinxt](http://github.chaintip.org/bitcoinxt/bitcoinxt) | 
+#### [how do I claim a bounty?](http://www.chaintip.org/github#claim-bounty)
 
 ## Collected Bounties
 
