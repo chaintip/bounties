@@ -44,7 +44,7 @@ readme = """[How do I claim a bounty?](http://www.chaintip.org/github#claim-boun
 
 
 Bounty | Issue | Repository | Fixing PRs
-:---: | --- | --- | :---:
+:---: | --- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
@@ -70,7 +70,7 @@ readme += """
 ## Collected Bounties
 
 Bounty | Issue | Repository | Fixed By PR
-:---: | --- | --- | :---:
+:---: | --- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='closed'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
