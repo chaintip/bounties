@@ -39,7 +39,7 @@ def ctu(url):
     return url.replace('https://github.com', 'http://github.chaintip.org')
 
 price = c_variables.find_one({})['bch_price']
-readme = """[How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) | [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue)
+readme = """[How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) | [&#x1f517; chaintip.org](http://www.chaintip.org/) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue)
 ## Available Bounties
 
 
