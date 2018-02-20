@@ -1,5 +1,6 @@
+[How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) | [How do I tip a bounty?](http://www.chaintip.org/github#tip-issue)
 ## Available Bounties
-#### [how do I claim a bounty?](http://www.chaintip.org/github#claim-bounty)
+
 
 Bounty | Issue | Repository | Fixing PRs
 :---: | --- | --- | :---:
