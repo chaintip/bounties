@@ -39,7 +39,8 @@ def ctu(url):
     return url.replace('https://github.com', 'http://github.chaintip.org')
 
 price = c_variables.find_one({})['bch_price']
-readme = """# Available Bounties
+readme = """## Available Bounties
+#### [how do I claim a bounty?](http://www.chaintip.org/github#claim-bounty)
 
 Bounty | Issue | Repository | Fixing PRs
 :---: | --- | --- | :---:
@@ -65,7 +66,7 @@ for issue in bounties_repo.get_issues(state='open'):
 """ % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
 
 readme += """
-# Collected Bounties
+## Collected Bounties
 
 Bounty | Issue | Repository | Fixed By PR
 :---: | --- | --- | :---:
