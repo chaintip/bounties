@@ -1,4 +1,4 @@
-[How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) | [&#x1f517; chaintip.org](http://www.chaintip.org/) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue)
+[How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) | [chaintip.org](http://www.chaintip.org/) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue)
 ## Available Bounties
 
 
