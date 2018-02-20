@@ -60,8 +60,8 @@ for issue in bounties_repo.get_issues(state='open'):
 
         split = i['repo_full_name'].split('/')
         repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
-        repo_string += " /"
-        repo_string += " " if (len(split[0]) + len(split[1])) < 19 else "\n"
+        repo_string += " / "
+        #repo_string += " " if (len(split[0]) + len(split[1])) < 19 else "\n"
         repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
         amount_usd = float(i['amount']) * price
         readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
