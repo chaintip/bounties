@@ -43,7 +43,7 @@ readme = """This repository tracks bounties on issues tipped using the ChainTip 
 
 Each open issue here gives information about a bounty available on an issue in another repository.
 
-Click on these links for usage instructions: [How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue) | [chaintip.org](http://www.chaintip.org/)
+Usage instructions: [How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue) | [chaintip.org](http://www.chaintip.org/)
 ## Available Bounties
 
 
