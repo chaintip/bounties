@@ -1,4 +1,4 @@
-This repository tracks bounties on issues tipped using the ChainTip GitHub bot. Each open issue on this repo gives information about a bounty available on an issue in another repository.
+This repository tracks bounties on issues tipped using the ChainTip bot. Each open issue here gives information about a bounty available on an issue in another repository.
 
 [How do I claim a bounty?](http://www.chaintip.org/github#claim-bounty) |  [How do I create or add to a bounty?](http://www.chaintip.org/github#tip-issue) | [chaintip.org](http://www.chaintip.org/)
 ## Available Bounties
