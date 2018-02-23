@@ -8,7 +8,7 @@ Usage instructions: [How do I claim a bounty?](http://www.chaintip.org/github#cl
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$3.91](http://github.chaintip.org/chaintip/bounties/issues/16) | Bitcoin Cash Fee Estimation API? [#1](http://github.chaintip.org/sporestack/bitcash/issues/1) | [sporestack](http://github.chaintip.org/sporestack) / [bitcash](http://github.chaintip.org/sporestack/bitcash) | 
+[$3.92](http://github.chaintip.org/chaintip/bounties/issues/16) | Bitcoin Cash Fee Estimation API? [#1](http://github.chaintip.org/sporestack/bitcash/issues/1) | [sporestack](http://github.chaintip.org/sporestack) / [bitcash](http://github.chaintip.org/sporestack/bitcash) | 
 [$39.13](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
 [$11.92](http://github.chaintip.org/chaintip/bounties/issues/11) | Update the russian translation [#55](http://github.chaintip.org/bitcoinxt/website/issues/55) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | [#56](http://github.chaintip.org/bitcoinxt/website/pull/56)
 [$8.23](http://github.chaintip.org/chaintip/bounties/issues/9) | Restructure main.cpp as standard C++ project [#63](http://github.chaintip.org/omersiar/esp-rfid/issues/63) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
