@@ -8,6 +8,7 @@ Usage instructions: [How do I claim a bounty?](http://www.chaintip.org/github#cl
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
+[$4.99](http://github.chaintip.org/chaintip/bounties/issues/19) | Allow tipping users not yet known the bot [#22](http://github.chaintip.org/abrkn/tipmebch/issues/22) | [abrkn](http://github.chaintip.org/abrkn) / [tipmebch](http://github.chaintip.org/abrkn/tipmebch) | 
 [$3.46](http://github.chaintip.org/chaintip/bounties/issues/18) | Industry on the forefront of technology despite big constraints [#11](http://github.chaintip.org/alwaysAn0n/chain-tip-test/issues/11) | [alwaysAn0n](http://github.chaintip.org/alwaysAn0n) /<br>[chain-tip-test](http://github.chaintip.org/alwaysAn0n/chain-tip-test) | [#13](http://github.chaintip.org/alwaysAn0n/chain-tip-test/pull/13)
 [$3.84](http://github.chaintip.org/chaintip/bounties/issues/16) | Bitcoin Cash Fee Estimation API? [#1](http://github.chaintip.org/sporestack/bitcash/issues/1) | [sporestack](http://github.chaintip.org/sporestack) / [bitcash](http://github.chaintip.org/sporestack/bitcash) | 
 [$38.34](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
