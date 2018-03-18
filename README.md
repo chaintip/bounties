@@ -17,7 +17,7 @@ Bounty | Issue | Repository | Fixing PRs
 [$2.9](http://github.chaintip.org/chaintip/bounties/issues/16) | Bitcoin Cash Fee Estimation API? [#1](http://github.chaintip.org/sporestack/bitcash/issues/1) | [sporestack](http://github.chaintip.org/sporestack) / [bitcash](http://github.chaintip.org/sporestack/bitcash) | 
 [$29.03](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
 [$6.11](http://github.chaintip.org/chaintip/bounties/issues/9) | Restructure main.cpp as standard C++ project [#63](http://github.chaintip.org/omersiar/esp-rfid/issues/63) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
-[$2.63](http://github.chaintip.org/chaintip/bounties/issues/5) | Don't require CASH service bit for outgoing connections [#309](http://github.chaintip.org/bitcoinxt/bitcoinxt/issues/309) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [bitcoinxt](http://github.chaintip.org/bitcoinxt/bitcoinxt) | 
+[$2.62](http://github.chaintip.org/chaintip/bounties/issues/5) | Don't require CASH service bit for outgoing connections [#309](http://github.chaintip.org/bitcoinxt/bitcoinxt/issues/309) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [bitcoinxt](http://github.chaintip.org/bitcoinxt/bitcoinxt) | 
 
 ## Collected Bounties
 
