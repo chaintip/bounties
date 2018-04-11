@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$10.53](http://github.chaintip.org/chaintip/bounties/issues/28) | Color active votes in different shade of blue [#1](http://github.chaintip.org/dagurval/bip100.tech/issues/1) | [dagurval](http://github.chaintip.org/dagurval) / [bip100.tech](http://github.chaintip.org/dagurval/bip100.tech) | 
+[$10.52](http://github.chaintip.org/chaintip/bounties/issues/28) | Color active votes in different shade of blue [#1](http://github.chaintip.org/dagurval/bip100.tech/issues/1) | [dagurval](http://github.chaintip.org/dagurval) / [bip100.tech](http://github.chaintip.org/dagurval/bip100.tech) | 
 [$4.68](http://github.chaintip.org/chaintip/bounties/issues/27) | Add proxy support [#940](http://github.chaintip.org/JoyStream/joystream-desktop/issues/940) | [JoyStream](http://github.chaintip.org/JoyStream) /<br>[joystream-desktop](http://github.chaintip.org/JoyStream/joystream-desktop) | 
 [$4.67](http://github.chaintip.org/chaintip/bounties/issues/26) | Help wanted: Optimize fragment identifiers [#24](http://github.chaintip.org/atom/xray/issues/24) | [atom](http://github.chaintip.org/atom) / [xray](http://github.chaintip.org/atom/xray) | 
 [$6.84](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
