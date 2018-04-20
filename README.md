@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$12.42](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
+[$12.43](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$7.67](http://github.chaintip.org/chaintip/bounties/issues/27) | Add proxy support [#940](http://github.chaintip.org/JoyStream/joystream-desktop/issues/940) | [JoyStream](http://github.chaintip.org/JoyStream) /<br>[joystream-desktop](http://github.chaintip.org/JoyStream/joystream-desktop) | 
 [$7.66](http://github.chaintip.org/chaintip/bounties/issues/26) | Help wanted: Optimize fragment identifiers [#24](http://github.chaintip.org/atom/xray/issues/24) | [atom](http://github.chaintip.org/atom) / [xray](http://github.chaintip.org/atom/xray) | 
 [$11.21](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
