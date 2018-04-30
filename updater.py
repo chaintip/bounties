@@ -97,7 +97,7 @@ for issue in bounties_repo.get_issues(state='closed'):
 readme += """
 ## Expired Bounties
 
-Bounty | Issue | Repository | Fixed By PR
+Bounty | Issue | Repository | Unmerged PRs
 ---: | --- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
