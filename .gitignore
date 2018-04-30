@@ -1,6 +1,7 @@
 __pycache__/
 config.py
 updater.log
+updater.log.*
 ._.gitignore
 ._config.py
 ._updater.py
