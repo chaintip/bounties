@@ -69,11 +69,33 @@ for issue in bounties_repo.get_issues(state='open'):
         repo_string += " " if (len(split[0]) + len(split[1])) < 23 else "<br>"
         repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
         amount_usd = float(i['amount']) * price
-        readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
+        if amount_usd > 0:
+            readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
 """ % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
 
 readme += """
 ## Collected Bounties
+
+Bounty | Issue | Repository | Fixed By PR
+---: | --- | :---: | :---:
+"""
+for issue in bounties_repo.get_issues(state='closed'):
+    i = c_issues.find_one({'bounties_issue_number': issue.number})
+    if i:
+        if 'linked_pull_id' in i:
+            pull = c_pulls.find_one({'id': i['linked_pull_id']})
+            pull_string = '[#%s](%s)' % (pull['number'], ctu(pull['url']))
+            split = i['repo_full_name'].split('/')
+            repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
+            repo_string += " /"
+            repo_string += " " if (len(split[0]) + len(split[1])) < 23 else "<br>"
+            repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
+            amount_usd = float(i['amount']) * price
+            readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
+""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pull_string)
+
+readme += """
+## Expired Bounties
 
 Bounty | Issue | Repository | Fixed By PR
 ---: | --- | :---: | :---:
