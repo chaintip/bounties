@@ -100,20 +100,27 @@ readme += """
 Bounty | Issue | Repository | Fixed By PR
 ---: | --- | :---: | :---:
 """
-for issue in bounties_repo.get_issues(state='closed'):
+for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
     if i:
-        if 'linked_pull_id' in i:
-            pull = c_pulls.find_one({'id': i['linked_pull_id']})
-            pull_string = '[#%s](%s)' % (pull['number'], ctu(pull['url']))
-            split = i['repo_full_name'].split('/')
-            repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
-            repo_string += " /"
-            repo_string += " " if (len(split[0]) + len(split[1])) < 23 else "<br>"
-            repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
-            amount_usd = float(i['amount']) * price
+        pulls = []
+        if 'pulls' in i:
+            pulls = c_pulls.find({'id': {'$in': i['pulls']}})
+        pulls_string = ''
+        for pull in pulls:
+            if len(pulls_string) > 0:
+                pulls_string += ', '
+            pulls_string += '[#%s](%s)' % (pull['number'], ctu(pull['url']))
+
+        split = i['repo_full_name'].split('/')
+        repo_string = "[%s](%s)" % (split[0], ctu('https://github.com/' + split[0]))
+        repo_string += " /"
+        repo_string += " " if (len(split[0]) + len(split[1])) < 23 else "<br>"
+        repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
+        amount_usd = float(i['amount']) * price
+        if amount_usd == 0:
             readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
-""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pull_string)
+""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
 
 with open("README.md", "w") as readme_file:
     print(readme, file = readme_file)
