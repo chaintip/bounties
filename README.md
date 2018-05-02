@@ -13,7 +13,7 @@ Bounty | Issue | Repository | Fixing PRs
 [$16.81](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$10.37](http://github.chaintip.org/chaintip/bounties/issues/26) | Help wanted: Optimize fragment identifiers [#24](http://github.chaintip.org/atom/xray/issues/24) | [atom](http://github.chaintip.org/atom) / [xray](http://github.chaintip.org/atom/xray) | 
 [$15.17](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
-[$48.16](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
+[$48.17](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
 
 ## Collected Bounties
 
