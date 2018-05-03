@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$5.42](http://github.chaintip.org/chaintip/bounties/issues/30) | Led and Buzzer Support [#114](http://github.chaintip.org/omersiar/esp-rfid/issues/114) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
+[$5.43](http://github.chaintip.org/chaintip/bounties/issues/30) | Led and Buzzer Support [#114](http://github.chaintip.org/omersiar/esp-rfid/issues/114) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
 [$17.55](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$10.82](http://github.chaintip.org/chaintip/bounties/issues/26) | Help wanted: Optimize fragment identifiers [#24](http://github.chaintip.org/atom/xray/issues/24) | [atom](http://github.chaintip.org/atom) / [xray](http://github.chaintip.org/atom/xray) | 
 [$15.83](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
