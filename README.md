@@ -12,7 +12,7 @@ Bounty | Issue | Repository | Fixing PRs
 [$5.3](http://github.chaintip.org/chaintip/bounties/issues/30) | Led and Buzzer Support [#114](http://github.chaintip.org/omersiar/esp-rfid/issues/114) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
 [$17.15](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$15.48](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
-[$49.14](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
+[$49.13](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
 
 ## Collected Bounties
 
