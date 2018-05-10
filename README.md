@@ -10,9 +10,9 @@ Each open issue here gives information about a bounty available on an issue in a
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
 [$5.94](http://github.chaintip.org/chaintip/bounties/issues/30) | Led and Buzzer Support [#114](http://github.chaintip.org/omersiar/esp-rfid/issues/114) | [omersiar](http://github.chaintip.org/omersiar) / [esp-rfid](http://github.chaintip.org/omersiar/esp-rfid) | 
-[$19.22](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
+[$19.23](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$4.48](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
-[$55.07](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
+[$55.08](http://github.chaintip.org/chaintip/bounties/issues/15) | Programmatically generate ssl certs [#868](http://github.chaintip.org/OpenBazaar/openbazaar-go/issues/868) | [OpenBazaar](http://github.chaintip.org/OpenBazaar) /<br>[openbazaar-go](http://github.chaintip.org/OpenBazaar/openbazaar-go) | 
 
 ## Collected Bounties
 
@@ -27,7 +27,7 @@ Bounty | Issue | Repository | Fixed By PR
 [$16.77](http://github.chaintip.org/chaintip/bounties/issues/11) | Update the russian translation [#55](http://github.chaintip.org/bitcoinxt/website/issues/55) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | [#56](http://github.chaintip.org/bitcoinxt/website/pull/56)
 [$22.65](http://github.chaintip.org/chaintip/bounties/issues/8) | Add ChainTip word logo and icon to this repository [#1](http://github.chaintip.org/chaintip/chaintip-design/issues/1) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-design](http://github.chaintip.org/chaintip/chaintip-design) | [#3](http://github.chaintip.org/chaintip/chaintip-design/pull/3)
 [$36.49](http://github.chaintip.org/chaintip/bounties/issues/7) | Support internationalization [#49](http://github.chaintip.org/bitcoinxt/website/issues/49) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | [#51](http://github.chaintip.org/bitcoinxt/website/pull/51)
-[$14.59](http://github.chaintip.org/chaintip/bounties/issues/6) | Remove country flags [#48](http://github.chaintip.org/bitcoinxt/website/issues/48) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | [#54](http://github.chaintip.org/bitcoinxt/website/pull/54)
+[$14.6](http://github.chaintip.org/chaintip/bounties/issues/6) | Remove country flags [#48](http://github.chaintip.org/bitcoinxt/website/issues/48) | [bitcoinxt](http://github.chaintip.org/bitcoinxt) / [website](http://github.chaintip.org/bitcoinxt/website) | [#54](http://github.chaintip.org/bitcoinxt/website/pull/54)
 [$2.14](http://github.chaintip.org/chaintip/bounties/issues/4) | Find a bug with the ChainTip GitHub bot? [#9](http://github.chaintip.org/chaintip/chaintip-github/issues/9) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | [#16](http://github.chaintip.org/chaintip/chaintip-github/pull/16)
 
 ## Expired Bounties
