@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$947.93](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
+[$947.92](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
 [$0.15](http://github.chaintip.org/chaintip/bounties/issues/39) | asdflkj [#8](http://github.chaintip.org/testtip/test/issues/8) | [testtip](http://github.chaintip.org/testtip) / [test](http://github.chaintip.org/testtip/test) | 
 [$11.5](http://github.chaintip.org/chaintip/bounties/issues/38) | Use date+number to derive double spend hash [#2](http://github.chaintip.org/dagurval/doublespend.cash/issues/2) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$432.89](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
