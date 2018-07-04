@@ -9,10 +9,10 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$936.62](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
+[$936.58](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
 [$0.15](http://github.chaintip.org/chaintip/bounties/issues/39) | asdflkj [#8](http://github.chaintip.org/testtip/test/issues/8) | [testtip](http://github.chaintip.org/testtip) / [test](http://github.chaintip.org/testtip/test) | 
 [$11.37](http://github.chaintip.org/chaintip/bounties/issues/38) | Use date+number to derive double spend hash [#2](http://github.chaintip.org/dagurval/doublespend.cash/issues/2) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
-[$427.73](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
+[$427.71](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
 [$8.78](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$2.05](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
 
