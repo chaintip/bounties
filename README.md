@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$894.51](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
+[$894.52](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
 [$10.86](http://github.chaintip.org/chaintip/bounties/issues/38) | Use date+number to derive double spend hash [#2](http://github.chaintip.org/dagurval/doublespend.cash/issues/2) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$408.5](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
 [$8.38](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
