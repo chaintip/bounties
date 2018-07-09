@@ -9,9 +9,9 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$924.32](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
+[$924.36](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
 [$11.22](http://github.chaintip.org/chaintip/bounties/issues/38) | Use date+number to derive double spend hash [#2](http://github.chaintip.org/dagurval/doublespend.cash/issues/2) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
-[$422.11](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
+[$422.13](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
 [$8.66](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$2.02](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
 
@@ -19,7 +19,7 @@ Bounty | Issue | Repository | Fixing PRs
 
 Bounty | Issue | Repository | Fixed By PR
 ---: | --- | :---: | :---:
-[$21.21](http://github.chaintip.org/chaintip/bounties/issues/32) | Support sweeping BCH paper wallets [#6757](http://github.chaintip.org/bitpay/copay/issues/6757) | [bitpay](http://github.chaintip.org/bitpay) / [copay](http://github.chaintip.org/bitpay/copay) | [#8698](http://github.chaintip.org/bitpay/copay/pull/8698)
+[$21.22](http://github.chaintip.org/chaintip/bounties/issues/32) | Support sweeping BCH paper wallets [#6757](http://github.chaintip.org/bitpay/copay/issues/6757) | [bitpay](http://github.chaintip.org/bitpay) / [copay](http://github.chaintip.org/bitpay/copay) | [#8698](http://github.chaintip.org/bitpay/copay/pull/8698)
 [$12.03](http://github.chaintip.org/chaintip/bounties/issues/28) | Color active votes in different shade of blue [#1](http://github.chaintip.org/dagurval/bip100.tech/issues/1) | [dagurval](http://github.chaintip.org/dagurval) / [bip100.tech](http://github.chaintip.org/dagurval/bip100.tech) | [#2](http://github.chaintip.org/dagurval/bip100.tech/pull/2)
 [$0.73](http://github.chaintip.org/chaintip/bounties/issues/25) | Improve or add to the wording of the readme file of this repository. [#30](http://github.chaintip.org/chaintip/chaintip-github/issues/30) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | [#31](http://github.chaintip.org/chaintip/chaintip-github/pull/31)
 [$2.96](http://github.chaintip.org/chaintip/bounties/issues/21) | Show balance also in selected currency [#8](http://github.chaintip.org/adangert/BitcoinCashWallet/issues/8) | [adangert](http://github.chaintip.org/adangert) /<br>[BitcoinCashWallet](http://github.chaintip.org/adangert/BitcoinCashWallet) | [#15](http://github.chaintip.org/adangert/BitcoinCashWallet/pull/15)
