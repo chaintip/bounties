@@ -9,9 +9,9 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$920.68](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
+[$920.75](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
 [$11.17](http://github.chaintip.org/chaintip/bounties/issues/38) | Use date+number to derive double spend hash [#2](http://github.chaintip.org/dagurval/doublespend.cash/issues/2) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
-[$420.45](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
+[$420.48](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
 [$8.63](http://github.chaintip.org/chaintip/bounties/issues/29) | Visualization of txids missing a character [#1](http://github.chaintip.org/dagurval/doublespend.cash/issues/1) | [dagurval](http://github.chaintip.org/dagurval) /<br>[doublespend.cash](http://github.chaintip.org/dagurval/doublespend.cash) | 
 [$2.01](http://github.chaintip.org/chaintip/bounties/issues/24) | Create a Video for chaintip github for spreading awareness [#29](http://github.chaintip.org/chaintip/chaintip-github/issues/29) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
 
