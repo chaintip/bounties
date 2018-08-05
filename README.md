@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$94.13](http://github.chaintip.org/chaintip/bounties/issues/44) | Replace libkeybinder by a GAction under Wayland [#1343](http://github.chaintip.org/Guake/guake/issues/1343) | [Guake](http://github.chaintip.org/Guake) / [guake](http://github.chaintip.org/Guake/guake) | 
+[$94.12](http://github.chaintip.org/chaintip/bounties/issues/44) | Replace libkeybinder by a GAction under Wayland [#1343](http://github.chaintip.org/Guake/guake/issues/1343) | [Guake](http://github.chaintip.org/Guake) / [guake](http://github.chaintip.org/Guake/guake) | 
 [$0.82](http://github.chaintip.org/chaintip/bounties/issues/43) | Implement OP_SHA256 [#106](http://github.chaintip.org/BitcoinCashKit/BitcoinCashKit/issues/106) | [BitcoinCashKit](http://github.chaintip.org/BitcoinCashKit) /<br>[BitcoinCashKit](http://github.chaintip.org/BitcoinCashKit/BitcoinCashKit) | 
 [$32.27](http://github.chaintip.org/chaintip/bounties/issues/41) | Cashaddr format for Bitcoin Cash [#980](http://github.chaintip.org/LedgerHQ/ledger-live-desktop/issues/980) | [LedgerHQ](http://github.chaintip.org/LedgerHQ) /<br>[ledger-live-desktop](http://github.chaintip.org/LedgerHQ/ledger-live-desktop) | 
 [$861.53](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | 
