@@ -52,8 +52,8 @@ Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
-    i = c_issues.find_one({'bounties_issue_number': issue.number, "discount": {"$exists": True}})
-    if i:
+    i = c_issues.find_one({'bounties_issue_number': issue.number})
+    if i and 'discount' not in i:
         pulls = []
         if 'pulls' in i:
             pulls = c_pulls.find({'id': {'$in': i['pulls']}})
