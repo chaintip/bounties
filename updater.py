@@ -52,7 +52,7 @@ Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
-    i = c_issues.find_one({'bounties_issue_number': issue.number})
+    i = c_issues.find_one({'bounties_issue_number': issue.number, "discount": {"$exists": True}})
     if i:
         pulls = []
         if 'pulls' in i:
