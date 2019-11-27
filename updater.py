@@ -53,7 +53,7 @@ Bounty | Issue | Repository | Fixing PRs
 """
 for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
-    if i and 'discount' not in i:
+    if i:
         pulls = []
         if 'pulls' in i:
             pulls = c_pulls.find({'id': {'$in': i['pulls']}})
@@ -97,8 +97,8 @@ for issue in bounties_repo.get_issues(state='closed'):
 readme += """
 ## Expired Bounties
 
-Bounty | Issue | Repository | Unmerged PRs
----: | --- | :---: | :---:
+Issue | Repository | Unmerged PRs
+--- | :---: | :---:
 """
 for issue in bounties_repo.get_issues(state='open'):
     i = c_issues.find_one({'bounties_issue_number': issue.number})
@@ -119,8 +119,8 @@ for issue in bounties_repo.get_issues(state='open'):
         repo_string += "[%s](%s)" % (split[1], ctu(i['repo_url']))
         amount_usd = float(i['amount']) * price
         if amount_usd == 0:
-            readme += """[$%s](%s) | %s [#%s](%s) | %s | %s
-""" % (round(amount_usd, 2), ctu(issue.html_url), i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
+            readme += """%s [#%s](%s) | %s | %s
+""" % (i['title'], i['number'], ctu(i['url']), repo_string, pulls_string)
 
 with open("README.md", "w") as readme_file:
     print(readme, file = readme_file)
