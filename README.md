@@ -41,6 +41,7 @@ Bounty | Issue | Repository | Fixed By PR
 
 Bounty | Issue | Repository | Unmerged PRs
 ---: | --- | :---: | :---:
+[$0.0](http://github.chaintip.org/chaintip/bounties/issues/40) | Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | [#76](http://github.chaintip.org/memocash/memo/pull/76)
 [$0.0](http://github.chaintip.org/chaintip/bounties/issues/37) | Implement spend and re-buy [#47](http://github.chaintip.org/adangert/Telescope/issues/47) | [adangert](http://github.chaintip.org/adangert) / [Telescope](http://github.chaintip.org/adangert/Telescope) | 
 [$0.0](http://github.chaintip.org/chaintip/bounties/issues/36) | Integrate the coinbase buy widget for bitcoin cash. [#44](http://github.chaintip.org/adangert/Telescope/issues/44) | [adangert](http://github.chaintip.org/adangert) / [Telescope](http://github.chaintip.org/adangert/Telescope) | 
 [$0.0](http://github.chaintip.org/chaintip/bounties/issues/35) | Suggestion for extension of JSON protocol. [#13](http://github.chaintip.org/bitpay/jsonPaymentProtocol/issues/13) | [bitpay](http://github.chaintip.org/bitpay) /<br>[jsonPaymentProtocol](http://github.chaintip.org/bitpay/jsonPaymentProtocol) | 
