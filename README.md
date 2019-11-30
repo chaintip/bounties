@@ -9,7 +9,6 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$4.28](http://github.chaintip.org/chaintip/bounties/issues/46) | Replace the "broken" image file used when a listing doesn't have an image with something else [#1187](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash/issues/1187) | [acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash) /<br>[acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash) | [#1314](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash/pull/1314)
 [$1.16](http://github.chaintip.org/chaintip/bounties/issues/45) | Change progress bar on main page [#1260](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash/issues/1260) | [acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash) /<br>[acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash) | 
 [$56.71](http://github.chaintip.org/chaintip/bounties/issues/44) | Replace libkeybinder by a GAction under Wayland [#1343](http://github.chaintip.org/Guake/guake/issues/1343) | [Guake](http://github.chaintip.org/Guake) / [guake](http://github.chaintip.org/Guake/guake) | 
 [$0.49](http://github.chaintip.org/chaintip/bounties/issues/43) | Implement OP_SHA256 [#106](http://github.chaintip.org/BitcoinCashKit/BitcoinCashKit/issues/106) | [BitcoinCashKit](http://github.chaintip.org/BitcoinCashKit) /<br>[BitcoinCashKit](http://github.chaintip.org/BitcoinCashKit/BitcoinCashKit) | 
@@ -41,6 +40,7 @@ Bounty | Issue | Repository | Fixed By PR
 Issue | Repository | Unmerged PRs
 --- | :---: | :---:
 Make Genesis block a mined block [#64](http://github.chaintip.org/ElixiumNetwork/elixium_core/issues/64) | [ElixiumNetwork](http://github.chaintip.org/ElixiumNetwork) /<br>[elixium_core](http://github.chaintip.org/ElixiumNetwork/elixium_core) | 
+Replace the "broken" image file used when a listing doesn't have an image with something else [#1187](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash/issues/1187) | [acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash) /<br>[acceptbitcoincash](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash) | [#1314](http://github.chaintip.org/acceptbitcoincash/acceptbitcoincash/pull/1314)
 Add private/direct message support? [#58](http://github.chaintip.org/memocash/memo/issues/58) | [memocash](http://github.chaintip.org/memocash) / [memo](http://github.chaintip.org/memocash/memo) | [#76](http://github.chaintip.org/memocash/memo/pull/76)
 Implement spend and re-buy [#47](http://github.chaintip.org/adangert/Telescope/issues/47) | [adangert](http://github.chaintip.org/adangert) / [Telescope](http://github.chaintip.org/adangert/Telescope) | 
 Integrate the coinbase buy widget for bitcoin cash. [#44](http://github.chaintip.org/adangert/Telescope/issues/44) | [adangert](http://github.chaintip.org/adangert) / [Telescope](http://github.chaintip.org/adangert/Telescope) | 
