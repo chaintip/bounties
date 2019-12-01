@@ -9,7 +9,7 @@ Each open issue here gives information about a bounty available on an issue in a
 
 Bounty | Issue | Repository | Fixing PRs
 ---: | --- | :---: | :---:
-[$1.29](http://github.chaintip.org/chaintip/bounties/issues/50) | Test bounty [#38](http://github.chaintip.org/chaintip/chaintip-github/issues/38) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
+[$2.59](http://github.chaintip.org/chaintip/bounties/issues/50) | Test bounty [#38](http://github.chaintip.org/chaintip/chaintip-github/issues/38) | [chaintip](http://github.chaintip.org/chaintip) /<br>[chaintip-github](http://github.chaintip.org/chaintip/chaintip-github) | 
 
 ## Collected Bounties
 
